@@ -1,0 +1,8 @@
+
+.idea/
+
+*.class
+
+out/production/study_kotlin_default/META-INF/
+
+.DS_Store
