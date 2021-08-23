@@ -5,7 +5,6 @@ fun main() {
     doWhen(3.14159)
     doWhen("Kotlin")
 
-
     doWhenToString(1)
     doWhenToString("DiMo")
     doWhenToString(12L)
